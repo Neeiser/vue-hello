@@ -4,7 +4,7 @@ const root = new Vue({
         displaying:'center',
         message: 'Hello World',
         btnLabel: 'Genera Immagine',
-        img: 'https://picsum.photos/500/300?random=1'
+        srcImg: 'https://picsum.photos/500/300?random=1'
     },
 
 })
